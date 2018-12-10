@@ -13,6 +13,6 @@ Depending on their level, this also determines if they are charged a fee when bu
 Both users have to login. A Customer can only login if they have been created by the manager with a
 specified amount. 
 
-Generated files are in place for the manager's login, which is [username, password]: [admin, admin].
+Generated txt files are in place for the manager's login (arbitrary), which is [username, password]: [admin, admin].
 When a manager creates a new customer, their information is stored in a new file as a list.
 Likewise, items for purchase are pre determined in the items list. 
