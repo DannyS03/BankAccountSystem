@@ -3,8 +3,7 @@ Using JavaFX Scene Builder
 
 Project for OOAD course (Object Oriented and Design)
 
-Simple Bank Account Application with two types of users - Manager and Customer
-Each with specified behaviours (Refer to UML Diagrams) 
+Simple Bank Account Application with two types of users - Manager and Customer. Each with specified behaviours (Refer to UML Diagrams) 
 
 Manager can add and delete customers.
 User can deposit funds, withdraw funds, or buy an online item. Customers can of course check their balance.
