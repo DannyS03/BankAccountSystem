@@ -15,5 +15,5 @@ Both users have to login. A Customer can only login if they have been created by
 specified amount. 
 
 Generated files are in place for the manager's login, which is [username, password]: [admin, admin].
-When a manager creates a new customer, their information is stored in a new file as a list
+When a manager creates a new customer, their information is stored in a new file as a list.
 Likewise, items for purchase are pre determined in the items list. 
