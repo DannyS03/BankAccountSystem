@@ -1,0 +1,4 @@
+100,iPhone XR,1200
+200,Galaxy Note9,750
+300,Macbook Pro 13.3,1300
+400,Sandisk 64GB,40
